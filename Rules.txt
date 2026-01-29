@@ -1,0 +1,34 @@
+sources: 
+        https://shogi.cz/en/game-rules/
+        https://shogi-international.com/rules/
+
+Rules that i have to work on for later:
+
+
+
+Repetition: the game ends if the same game position occurs four times consecutively – the game is considered a draw. However, if an eternal check originated from this situation, the player giving check and causing such a situation loses the game.
+
+
+
+The game reaches a jishogi if both kings have advanced into their respective promotion zones and neither player can hope to mate the other or to gain any further material. If this happens, the winner is decided as follows:
+all promoted pieces are canceled and points for individual pieces (including those captured) are summed up. Each rook and bishop scores 5 points and all other pieces except kings score 1 point each. A player scoring less than 24 points loses, otherwise the game is considered a draw.e turn (the piece is turned over revealing the red character)
+
+
+
+A player who captured the piece acquires the piece and places it aside to be seen, next to the game board on his side, and always shown as an unpromoted piece. The pieces to be carried shall be placed next to the shogi board, on the right side as seen from the player. If a komadai is installed, the pieces shall be placed on top of the komadai.
+
+
+
+Promotion of Pieces
+The last 3 rows on the game board are called the “promotion zone”. When a piece is moved and part of a pieces’s path lies within the promotion zone (that is, if the piece moves into, out or wholly within the zone), then such piece can be promoted at the end of the turn (the piece is turned over revealing the red character).
+
+*Promotion is an option*. However, promotion is mandatory for pawns and lances in the last row and for knights in the last two rows. once promoted its not reversible at thought.
+
+A piece is always promoted at the end of its move (it is a part of the turn). A piece loses its previous skills and moves in the next turn as indicated on it after it is turned. A promoted piece cannot be unpromoted or demoted (turned back) while still in play on the board. Pieces become demoted when they are captured.
+
+A small character in the lower right-hand corner is an aid only for the players to see what piece has been promoted.
+
+A piece is always dropped unpromoted side up, even if dropped into the promotion zone.
+A piece should be dropped on a field where it is still possible to move such a piece for at least one more move. Pawns and lances cannot be dropped onto the last row while knights cannot be dropped on the last two rows.
+A pawn cannot be dropped in a column containing another unpromoted pawn of the same player (promoted pawns do not count).
+A Pawn cannot be dropped in front of a King in such a way that it would cause the King to become checkmated (although other pieces can); however, pawns may give checkmate on any subsequent move after the pawn was dropped
